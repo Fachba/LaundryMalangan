@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#182784</color>
+    <color name="putih">#ffffff</color>
+    <color name="hitam">#000000</color>
+    <color name="colorPrimaryDark">#182784</color>
+    <color name="tabtextcolor">#ffffff</color>
+    <color name="top">#000430</color>
+    <color name="tabindicatorcolor">#2d2d2d</color>
+    <color name="colorAccent">#ff4081</color>
+</resources>

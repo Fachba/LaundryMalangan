@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495061793987",
+    "firebase_url": "https://laundry-f37b4.firebaseio.com",
+    "project_id": "laundry-f37b4",
+    "storage_bucket": "laundry-f37b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495061793987:android:d9ce1ad61a1f925d",
+        "android_client_info": {
+          "package_name": "fachba.com.laundrykan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495061793987-nuug6pjs1diufs14r5k5sunratreb49b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fachba.com.laundrykan",
+            "certificate_hash": "109ba077370c1ac12317dd84222eda0c7791c195"
+          }
+        },
+        {
+          "client_id": "495061793987-p6mrastupkbmj82vd8vj6ijed93f6ac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpxgoEJcHRiTR3GMZJfzOKfObZeWg9-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495061793987-p6mrastupkbmj82vd8vj6ijed93f6ac4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
